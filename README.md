@@ -8,7 +8,7 @@ Download the latest NodeJs version
 
 Install expressjs
 ```bash
-$ npm install -g express-generator
+$ npm install -g express
 ```
 
 Install [Bluebird](bluebird http://bluebirdjs.com/docs/features.html)
