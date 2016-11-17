@@ -1,4 +1,4 @@
-# Node-Express-Postgres-CRUD
+# Node-Express-Postgres-CRUD API
 Small solution to showcase the basics of NodeJs, ExpressJs and Postgres database operations.
 This is a Rest Api solution using basic database create, read, update and delete operations (CRUD)
 
